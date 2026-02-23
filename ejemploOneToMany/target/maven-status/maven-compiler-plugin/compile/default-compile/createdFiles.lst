@@ -1,0 +1,11 @@
+persistencia\ItemJpaController.class
+persistencia\CarritoJpaController.class
+com\mycompany\ejemploonetomany\EjemploOneToMany.class
+model\Item.class
+model\Item_.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+model\Carrito.class
+model\Carrito_.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
